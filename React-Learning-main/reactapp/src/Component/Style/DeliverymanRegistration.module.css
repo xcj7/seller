@@ -1,0 +1,18 @@
+.main{
+    width: 600px;
+   
+  padding: 10px 30px;
+   background-color:rgb(173, 239, 255);
+}
+.section{
+   display: flex;
+}
+.b{
+    width: 800px;
+    height: 665px;
+   
+}
+.spinner{
+
+    margin: 100px 600px;
+ }

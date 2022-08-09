@@ -1,0 +1,18 @@
+.main{
+    width: 700px;
+   border-left:  2px solid rgb(240, 224, 224);
+  padding: 10px 30px;
+   background-color:aliceblue;
+}
+.section{
+   display: flex;
+}
+.b{
+    width: 700px;
+    height: 500px;
+   
+}
+.spinner{
+
+    margin: 100px 600px;
+ }

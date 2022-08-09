@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    background-color:rgba(253, 248, 242, 0.89);
+
+}
+.product{
+    width: 800px;
+    height: 665px;
+    margin:0px 60px 20px 60px
+   }
+
+.b{
+  
+    width: 800px;
+    height: 665px;
+   
+}
+.body{
+    display: flex;
+   
+    
+}

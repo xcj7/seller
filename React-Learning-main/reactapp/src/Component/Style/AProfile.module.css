@@ -1,0 +1,36 @@
+
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+.body{
+    display: flex;
+   
+    
+}
+.details{
+    width: 700px;
+    padding: 20px;
+    border-right: 1px solid gray;
+}
+.main{
+    width: 600px;
+    padding: 20px;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+}
+.info{
+    font-size: 17px;
+   color: black;
+}
+.name{
+    font-size: 30px;
+    font-weight: bold;
+}
+.product{
+    width: 400px;
+    padding: 20px;
+}

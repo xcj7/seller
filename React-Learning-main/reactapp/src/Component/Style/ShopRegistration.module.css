@@ -1,0 +1,19 @@
+.main{
+    width: 600px;
+  padding: 10px 30px;
+   
+}
+.section{
+   display: flex;
+}
+.b{
+    width: 800px;
+    height: 665px;
+   
+}
+.spinner{
+
+    margin: 100px 600px;
+ }
+
+ 

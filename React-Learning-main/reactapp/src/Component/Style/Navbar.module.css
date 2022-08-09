@@ -1,0 +1,16 @@
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+   
+}
+.nav{
+    background-color: rgb(197, 230, 230);
+}
+.button{
+    margin: 20px;
+    text-decoration: none;
+}
+.brand{
+    background-color: brown;
+}

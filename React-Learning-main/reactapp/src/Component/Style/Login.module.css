@@ -1,0 +1,14 @@
+.main{
+    width: 700px;
+  padding: 190px 100px;
+ text-align: center;
+   background-color: rgb(203, 228, 228);
+}
+.section{
+   display: flex;
+}
+.b{
+    width: 700px;
+    height: 620px;
+   
+}

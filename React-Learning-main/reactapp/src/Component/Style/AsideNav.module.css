@@ -1,0 +1,20 @@
+ .li {
+    list-style: none;
+    background: rgb(201, 224, 224);
+    margin: 30px 50px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+ }
+ .a{
+    text-decoration: none;
+ }
+ .menue{
+    width: 40px;
+    height: 40px;
+ }
+ .title{
+    font-size: 25px;
+    color: blue;
+   
+}
